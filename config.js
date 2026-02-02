@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "Too bad you are stuck with me :)"           // Secret hover message
+            secretAnswer: "Esha you have to click here :)"           // Secret hover message
         },
         second: {
             text: "How much do you like me?",                          // For the love meter
